@@ -1,0 +1,22 @@
+.styled-select-container{
+    margin: 5px;
+}
+
+.styled-label{
+    font-weight: 13px;
+}
+
+.styled-select{
+    width: 1005;
+    padding: 10px;
+    width: 500px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+
+.styled-paragraph{
+    margin-top: 10px;
+    font-weight: 13px;
+}

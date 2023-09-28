@@ -1,0 +1,41 @@
+.styled-button {
+    border-radius: 20px;
+    outline: none;
+    text-align: center;
+    font-weight: 600;
+    cursor: pointer;
+    padding-inline: 25px;
+    height: 40px;
+}
+
+.styled-button.maxWidth{
+    width: 100%;
+}
+
+.styled-button.primary-variant {
+    background-color: #CF9683;
+    color: white; /* background'u ve text color'unu verdik. */
+    border: #CF9683;
+}
+
+.styled-button.black-variant {
+    background-color: black;
+    color: white;
+}
+
+.styled-button.white-variant {
+    background-color: white;
+    color: black;
+}
+
+.styled-button.small-size{
+    font-size: 12px;
+}
+
+.styled-button.medium-size{
+    font-size: 14px;
+}
+
+.styled-button.large-size {
+    font-size: 16px;
+}

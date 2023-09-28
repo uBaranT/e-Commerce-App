@@ -1,0 +1,59 @@
+.text {
+    font-family: 'Poppins', 'Open Sans', 'Helvetica Neue';
+}
+
+.xxs{
+    font-size: 6px;
+}
+
+.xs{
+    font-size: 8px;
+}
+
+.sm{
+    font-size: 10px;
+}
+
+.s{
+    font-size: 12px;
+}
+
+.m{
+    font-size: 16px;
+}
+
+.ml{
+    font-size: 18px;
+}
+
+.l{
+    font-size: 20px;
+}
+
+.xl{
+    font-size: 22px;
+}
+
+.xxl{
+    font-size: 24px;
+}
+
+.primary {
+    color: #CF9683;
+}
+
+.black{
+    color: black;
+}
+
+.white {
+    color: white;
+}
+
+.grey {
+    color: grey;
+}
+
+.bold{
+    font-weight: bold;
+}

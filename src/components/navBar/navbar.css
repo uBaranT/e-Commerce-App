@@ -1,0 +1,27 @@
+/* Navbar stil tanımları */
+.styled-navbar {
+    background-color: white; /* Arka plan rengi */
+    padding: 10px 0; /* Kenar boşluğu */
+  }
+  
+  .styled-navbar ul {
+    list-style: none; /* Liste işareti kaldır */
+    padding: 0;
+    text-align: center; /* Liste öğelerini ortala */
+  }
+  
+  .styled-navbar ul li {
+    display: inline; /* Liste öğelerini yan yana sırala */
+    margin: 0 15px; /* Liste öğeleri arasındaki boşluk */
+  }
+  
+  .styled-navbar ul li a {
+    text-decoration: none; /* Bağlantı altını çizme */
+    color: black; /* Metin rengi */
+    font-weight: bold; /* Metin kalınlığı */
+  }
+  
+  .styled-navbar ul li a:hover {
+    color: #ff6600; /* Fare üzerine gelindiğinde metin rengi */
+  }
+  
